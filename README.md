@@ -75,19 +75,19 @@ SEMS_Dashboard/
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/1.png)
+![Main Dashboard](SEMS_DASHBOARD/screenshots/1.png)
 
 ### System Metrics
-![System Metrics](screenshots/5.png)
+![System Metrics](SEMS_DASHBOARD/screenshots/5.png)
 
 ### System Control
-![System Control](screenshots/2.png)
+![System Control](SEMS_DASHBOARD/screenshots/2.png)
 
 ### Power Management
-![Power Management](screenshots/3.png)
+![Power Management](SEMS_DASHBOARD/screenshots/3.png)
 
 ### Sensor Graph Example
-![Sensor Graph](screenshots/4.png)
+![Sensor Graph](SEMS_DASHBOARD/screenshots/4.png)
 
 ## Contributing
 
